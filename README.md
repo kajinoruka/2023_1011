@@ -1,4 +1,4 @@
-# 2023_1011
+# 2023_ds
 test repository for data science class
 これはDSの練習です。
 --

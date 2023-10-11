@@ -2,7 +2,7 @@
 test repository for data science class
 これはDSの練習です。
 --
-見出し1
+#見出し1
 ##見出し2
 ###見出し3
 
@@ -13,5 +13,5 @@ test repository for data science class
 ---
 [大学HP]_(https://www.ncu.ac.jp)
 ---
-![画像](https://www.nagoya-cu.ac.jp/sda/commom/image/header-logo.png)
+![画像](https://www.nagoya-cu.ac.jp/sda/common/image/header-logo.png)
 ---
